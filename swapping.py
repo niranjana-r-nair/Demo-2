@@ -24,3 +24,4 @@ print("Second Number:", num2)
 print("\nSwapping completed successfully!")
 print("Thank you for using this program.")
 
+print("Program execution has ended.")
