@@ -25,4 +25,4 @@ print("\nSwapping completed successfully!")
 print("Thank you for using this program.")
 
 print("Program execution has ended.")
-print("Goodbye!")
+print("good bye")
