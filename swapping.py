@@ -7,7 +7,7 @@ num1 = int(input("Enter the 1st number: "))
 num2 = int(input("Enter the 2nd number: "))
 
 # Display original values
-print("\nBefore Swapping")
+print("Before Swapping")
 print("First Number :", num1)
 print("Second Number:", num2)
 
